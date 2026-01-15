@@ -1,0 +1,16 @@
+{
+  "name": "Six7",
+  "symbol": "SVN",
+  "description": "Six7 is a Solana-based token with a fixed supply and transparent tokenomics.",
+  "image": "https://raw.githubusercontent.com/SESE951228-COLLAB/Six7-token/main/logo.PNG",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}
